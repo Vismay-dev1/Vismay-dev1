@@ -38,9 +38,9 @@
 
 ## 📊 GitHub Analytics
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME\&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=Vismay-dev1\&show_icons=true\&theme=tokyonight)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vismay-dev1\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vismay-dev1\&layout=compact\&theme=tokyonight)
 
 ---
 
