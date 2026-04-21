@@ -9,7 +9,7 @@
 ## 🧠 About Me
 
 * 🎓 Currently pursuing BCA
-* 💻 Learning: Python, C, MySQL, Web Development
+* 💻 Learning: Python , C , C++ , Java , MySQL , Web Development , AI and ML
 * 🎯 Mission: Build scalable tech + become financially independent
 * ⚡ Strong interest in AI, startups, and business strategy
 
