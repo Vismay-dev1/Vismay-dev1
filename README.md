@@ -31,12 +31,8 @@
 
 * Run SQL queries directly in browser using SQLite
 * Clean UI + fast execution
-* 🔗 [View Project](YOUR_GITHUB_LINK)
+* 🔗 [View Project](https://vismay-dev1.github.io/sql-web/)
 
-### 🔹 Student Productivity Dashboard (Upcoming)
-
-* Track study time, tasks, performance
-* Data-driven insights for students
 
 ---
 
@@ -50,9 +46,9 @@
 
 ## 🌐 Connect With Me
 
-* 🔗 LinkedIn: YOUR_LINK
-* 📸 Instagram: YOUR_LINK
-* 🌍 Portfolio: YOUR_PORTFOLIO
+* 🔗 LinkedIn: [YOUR_LINK](https://linkedin.com/in/VismayVinod)
+* 📸 Instagram: [YOUR_LINK](https://instagram.com/vis_may_v/)
+* 🌍 Portfolio: [YOUR_PORTFOLIO](https://vismay-dev1.github.io/my-portfolio/)
 
 ---
 
