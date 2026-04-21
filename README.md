@@ -46,9 +46,9 @@
 
 ## 🌐 Connect With Me
 
-* 🔗 LinkedIn: [YOUR_LINK](https://linkedin.com/in/VismayVinod)
-* 📸 Instagram: [YOUR_LINK](https://instagram.com/vis_may_v/)
-* 🌍 Portfolio: [YOUR_PORTFOLIO](https://vismay-dev1.github.io/my-portfolio/)
+* 🔗 LinkedIn: [LinkedIn](https://linkedin.com/in/VismayVinod)
+* 📸 Instagram: [Instagram](https://instagram.com/vis_may_v/)
+* 🌍 Portfolio: [Portfolio](https://vismay-dev1.github.io/my-portfolio/)
 
 ---
 
