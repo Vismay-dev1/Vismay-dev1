@@ -1,16 +1,67 @@
-## Hi there 👋
+# 👋 Hey, I'm Vismay
 
-<!--
-**Vismay-dev1/Vismay-dev1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **BCA Student | Future Entrepreneur | Tech Enthusiast**
+💡 Building skills in **AI, Web Development & Databases**
+📍 India
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+* 🎓 Currently pursuing BCA
+* 💻 Learning: Python, C, MySQL, Web Development
+* 🎯 Mission: Build scalable tech + become financially independent
+* ⚡ Strong interest in AI, startups, and business strategy
+
+---
+
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge\&logo=python)
+![C](https://img.shields.io/badge/C-grey?style=for-the-badge\&logo=c)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge\&logo=mysql)
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge\&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge\&logo=css3)
+
+---
+
+## 🚀 Projects
+
+### 🔹 Web-based MySQL Terminal
+
+* Run SQL queries directly in browser using SQLite
+* Clean UI + fast execution
+* 🔗 [View Project](YOUR_GITHUB_LINK)
+
+### 🔹 Student Productivity Dashboard (Upcoming)
+
+* Track study time, tasks, performance
+* Data-driven insights for students
+
+---
+
+## 📊 GitHub Analytics
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me
+
+* 🔗 LinkedIn: YOUR_LINK
+* 📸 Instagram: YOUR_LINK
+* 🌍 Portfolio: YOUR_PORTFOLIO
+
+---
+
+## 🧭 Future Goals
+
+* 🚀 Build my own startup
+* 🤖 Master AI & Machine Learning
+* 💰 Achieve financial freedom
+
+---
+
+⭐ *"Consistency beats talent when talent doesn’t work hard."*
