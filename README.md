@@ -17,11 +17,26 @@
 
 ## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge\&logo=python)
-![C](https://img.shields.io/badge/C-grey?style=for-the-badge\&logo=c)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge\&logo=mysql)
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge\&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge\&logo=css3)
+### 💻 Programming Languages
+
+![C](https://img.shields.io/badge/C-Intermediate-grey?style=for-the-badge\&logo=c)
+![C++](https://img.shields.io/badge/C++-Intermediate-blue?style=for-the-badge\&logo=cplusplus)
+![Java](https://img.shields.io/badge/Java-Beginner-orange?style=for-the-badge\&logo=java)
+![Python](https://img.shields.io/badge/Python-Intermediate-blue?style=for-the-badge\&logo=python)
+
+---
+
+### 🌐 Web Development
+
+![HTML](https://img.shields.io/badge/HTML-Advanced-orange?style=for-the-badge\&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-Advanced-blue?style=for-the-badge\&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow?style=for-the-badge\&logo=javascript)
+
+---
+
+### 🗄️ Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-Intermediate-blue?style=for-the-badge\&logo=mysql)
 
 ---
 
