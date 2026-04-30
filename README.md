@@ -42,12 +42,20 @@
 
 ## 🚀 Projects
 
-### 🔹 Web-based MySQL Terminal
+## 🚀 Projects
 
+### 🔹 Web-based MySQL Terminal
 * Run SQL queries directly in browser using SQLite
 * Clean UI + fast execution
 * 🔗 [View Project](https://vismay-dev1.github.io/sql-web/)
 
+---
+
+### 🔹 Driver Sleep Prevention System
+* Real-time drowsiness detection using IR sensors mounted on glasses
+* Arduino-powered wearable that triggers a buzzer alert when eye closure exceeds a threshold
+* Affordable, non-intrusive hardware solution to prevent drowsy driving accidents
+* 🔗 [View Project](https://github.com/Vismay-dev1/driver-sleep-prevention-system)
 
 ---
 
