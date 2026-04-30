@@ -42,8 +42,6 @@
 
 ## 🚀 Projects
 
-## 🚀 Projects
-
 ### 🔹 Web-based MySQL Terminal
 * Run SQL queries directly in browser using SQLite
 * Clean UI + fast execution
