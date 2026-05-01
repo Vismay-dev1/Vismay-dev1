@@ -74,16 +74,15 @@
 
 ## 🚀 Flagship Projects
 
-### 🔹 **ProOffice Suite** - AI-Powered Office Platform
-> A single-file, feature-rich office application built entirely in HTML/JavaScript
-* 📝 **Document Editor** with rich text formatting
-* 📊 **Spreadsheet Engine** with formula evaluation & import/export
-* 🎬 **Presentation Tool** for creating stunning slides
-* 💾 **Full File Support**: .docx, .xlsx, .csv, .txt exports
-* ⚙️ **JavaScript Macro System** for automation
-* 💿 **localStorage Persistence** for seamless workflow
+### 🔹 **AI PDF Reader
+Eye-tracking Smart Assistant
 
-*Status: Actively developed | Complexity: Advanced*
+    👁️ Intelligent Gaze Tracking – Hands-free scrolling and focus-based interaction
+    🤖 AI Content Insights – Real-time summarization and context-aware explanations
+    📊 Comprehension Analytics – Deep dive into reading patterns and retention metrics
+    🧠 Adaptive Learning UI – Dynamic interface that adjusts to your cognitive load
+
+Status: Actively developed | Complexity: Advanced*
 
 ---
 
