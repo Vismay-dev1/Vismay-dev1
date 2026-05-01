@@ -75,13 +75,11 @@
 ## 🚀 Flagship Projects
 
 ### 🔹 **AI PDF Reader
-Eye-tracking Smart Assistant
-
-    👁️ Intelligent Gaze Tracking – Hands-free scrolling and focus-based interaction
-    🤖 AI Content Insights – Real-time summarization and context-aware explanations
-    📊 Comprehension Analytics – Deep dive into reading patterns and retention metrics
-    🧠 Adaptive Learning UI – Dynamic interface that adjusts to your cognitive load
-
+ ** Eye-tracking Smart Assistant
+* 👁️ Intelligent Gaze Tracking – Hands-free scrolling and focus-based interaction
+* 🤖 AI Content Insights – Real-time summarization and context-aware explanations
+* 📊 Comprehension Analytics – Deep dive into reading patterns and retention metrics
+* 🧠 Adaptive Learning UI – Dynamic interface that adjusts to your cognitive load
 Status: Actively developed | Complexity: Advanced*
 
 ---
