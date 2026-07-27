@@ -1,177 +1,198 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,50:330066,100:003366&height=220&section=header&text=Vismay%20Vinod&fontSize=50&fontColor=00ffff&animation=fadeIn&fontAlignY=40"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:1a0033,100:003366&height=230&section=header&text=Vismay%20Vinod&fontSize=52&fontColor=00e5ff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Builder%20%7C%20Systems%20Tinkerer&descAlignY=58&descSize=18&descColor=8892b0"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00ffff&center=true&vCenter=true&width=900&lines=💻+BCA+Student+%7C+Web+Developer;🤖+AI+%26+ML+Enthusiast+%7C+Tech+Builder;📊+Database+Architect+%7C+Problem+Solver;🚀+Building+Tomorrow's+Tech+Today"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=760&lines=Building+AI+assistants%2C+ML+pipelines%2C+and+dev+tools;Designing+a+Windows+desktop+shell+from+scratch;9.6+CGPA+BCA+Student+%7C+India;Shipping+real+projects%2C+not+just+tutorials"/>
 
-<br>
+<br><br>
 
-<img src="https://media.tenor.com/rpsKcaCu_e0AAAAC/coding-programming.gif" width="300" alt="Coding Animation"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/BCA%20Student-FFF?style=flat-square&logo=graduation-cap" alt="Student Badge"/>
-<img src="https://img.shields.io/badge/Tech%20Enthusiast-00ffff?style=flat-square&logo=rocket" alt="Tech Badge"/>
-<img src="https://img.shields.io/badge/Open%20Source-000000?style=flat-square&logo=github" alt="Open Source Badge"/>
+<img src="https://img.shields.io/badge/BCA%20Student-9.6%20CGPA-0d0221?style=for-the-badge&labelColor=1a0033&color=00e5ff"/>
+<img src="https://img.shields.io/badge/Based%20in-India-0d0221?style=for-the-badge&labelColor=1a0033&color=00e5ff"/>
+<img src="https://img.shields.io/badge/Focus-AI%2FML%20%7C%20Full--Stack%20%7C%20Systems-0d0221?style=for-the-badge&labelColor=1a0033&color=00e5ff"/>
 
 </div>
 
----
+<br>
 
-## 🎯 About Me
+## About Me
 
-```
-👨‍💻 BCA Student | 🚀 Future Entrepreneur | 💡 Passionate Learner
-📚 Currently mastering: AI/ML, Web Dev, Databases & System Design
-🎓 Believer in continuous learning & building real-world solutions
-🌍 Based in India | 💭 Always thinking about the next big idea
+```yaml
+role:        BCA Student & Self-Directed Software Engineer
+academics:   9.6 CGPA
+building:    JARVIS (AI assistant) · RainVision AI (rain nowcasting) · Aurora Shell (Windows desktop env)
+interests:   Full-stack web dev · AI/ML · Embedded systems · System design
+goal:        Launch a startup, ship real products, reach financial independence
+philosophy:  Extraordinary results come from ordinary consistency.
 ```
 
----
+I don't just follow tutorials — I design full specs before I build, whether it's a 13-phase roadmap for a desktop shell or a complete ML pipeline for a prediction model. Currently deep in AI/ML while shipping full-stack projects on the side.
 
-## 🛠️ Tech Stack
+<br>
 
-### 💻 Programming Languages
-
-<div align="center">
-
-![C](https://img.shields.io/badge/C-Intermediate-grey?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-Intermediate-blue?style=for-the-badge&logo=cplusplus)
-![Java](https://img.shields.io/badge/Java-Beginner-orange?style=for-the-badge&logo=java)
-![Python](https://img.shields.io/badge/Python-Intermediate-blue?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow?style=for-the-badge&logo=javascript)
-
-</div>
-
----
-
-### 🌐 Web Development
+## Tech Stack
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-Advanced-orange?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-Advanced-blue?style=for-the-badge&logo=css3)
-![React](https://img.shields.io/badge/React-Intermediate-61dafb?style=for-the-badge&logo=react)
-![Web Design](https://img.shields.io/badge/Web%20Design-Advanced-ff69b4?style=for-the-badge&logo=figma)
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js&theme=dark" />
+
+**Web Development**
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs&theme=dark" />
+
+**AI / ML**
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+
+**Databases, Tools & Systems**
+
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,rust,arduino&theme=dark" />
 
 </div>
 
----
-
-### 🗄️ Databases & Tools
-
-<div align="center">
-
-![MySQL](https://img.shields.io/badge/MySQL-Intermediate-blue?style=for-the-badge&logo=mysql)
-![SQLite](https://img.shields.io/badge/SQLite-Intermediate-003b57?style=for-the-badge&logo=sqlite)
-![Git](https://img.shields.io/badge/Git-Proficient-f34f29?style=for-the-badge&logo=git)
-
-</div>
-
----
+<br>
 
 ## 🚀 Flagship Projects
 
-### 🔹 **AI PDF Reader
- ** Eye-tracking Smart Assistant
-* 👁️ Intelligent Gaze Tracking – Hands-free scrolling and focus-based interaction
-* 🤖 AI Content Insights – Real-time summarization and context-aware explanations
-* 📊 Comprehension Analytics – Deep dive into reading patterns and retention metrics
-* 🧠 Adaptive Learning UI – Dynamic interface that adjusts to your cognitive load
-Status: Actively developed | Complexity: Advanced*
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+### 🤖 JARVIS — Personal AI Assistant
+Windows-native AI assistant inspired by Iron Man's JARVIS — built for voice interaction, app/file/system control, computer vision, and daily-assistant automation, designed with full breadth across every module first.
 
-### 🔹 **Web-based SQL Terminal**
-* 🌐 Execute SQL queries directly in your browser
-* ⚡ Lightning-fast performance powered by SQLite
-* 🎨 Clean, intuitive UI for data exploration
-* 📱 Fully responsive design
-* 🔗 [Live Demo](https://vismay-dev1.github.io/sql-web/) | [Repository](https://github.com/Vismay-dev1/sql-web)
+`Status: Active — Phase 1 MVP`
 
----
+</td>
+<td width="50%" valign="top">
 
-### 🔹 **Driver Sleep Prevention System**
-* 👁️ Real-time drowsiness detection using advanced IR sensors
-* 🎧 Arduino-powered wearable glasses with intelligent alerts
-* 🚨 Automatic buzzer trigger on excessive eye closure
-* 💰 Cost-effective hardware solution
-* 🏆 Focused on preventing drowsy driving accidents
-* 🔗 [View Project](https://github.com/Vismay-dev1/driver-sleep-prevention-system)
+### 🌧️ RainVision AI — Rain Nowcasting
+Predicts rainfall 5–60 minutes ahead from live radar/satellite data using optical flow + ConvLSTM models. Built to become Kerala's most trusted hyperlocal rain prediction platform.
 
----
+`Stack: React · FastAPI · TensorFlow · OpenCV · PostgreSQL`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🖥️ Aurora Shell — Windows Desktop Environment
+A macOS-inspired desktop shell built from scratch for Windows — Rust/C++, Skia rendering, DirectX 12, and WebView2, following a strict 13-phase roadmap and a zero-Apple-assets constraint.
+
+`Status: Design & early development`
+
+</td>
+<td width="50%" valign="top">
+
+### 🎓 Smart Attendance Tracker
+Real-time face-recognition attendance system (face-api.js) with dual-mode session control and a glassmorphism dashboard — teacher/student roles, analytics, and PDF reports, all in one self-contained app.
+
+`Stack: JS · face-api.js · Tailwind · Chart.js · jsPDF`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 MAVEN — E-Commerce Platform
+Full storefront with multiple ground-up redesigns (Myntra-inspired, luxury black-and-orange) and localized INR pricing.
+
+🔗 **[Live Demo](https://vismay-dev1.github.io/MAVEN-ecommerce)**
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 AI/ML Salary Prediction
+End-to-end ML project on a synthetic 500-row salary dataset — full EDA, preprocessing, and four models (KNN, Linear & Logistic Regression) in one Colab notebook.
+
+`Stack: Python · scikit-learn · Pandas · Google Colab`
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>📂 More Projects — click to expand</b></summary>
+<br>
+
+| Project | Description | Link |
+|---|---|---|
+| **Web-based SQL Terminal** | Run SQL queries in-browser, powered by SQLite | [Live](https://vismay-dev1.github.io/sql-web/) · [Repo](https://github.com/Vismay-dev1/sql-web) |
+| **Driver Sleep Prevention System** | Arduino + IR sensors for real-time drowsiness detection with buzzer alerts | [Repo](https://github.com/Vismay-dev1/driver-sleep-prevention-system) |
+| **AI PDF Reader** | Eye-tracking based hands-free reading assistant with AI summarization | — |
+| **CodeNexus** | Browser-based code editor simulating multi-language execution | — |
+| **3D Racing Game** | Forza Motorsport-inspired browser racer (Three.js + Ammo.js), with a mobile-optimized build | — |
+| **NexaCore** | 3D marketing site built with Three.js + GSAP | — |
+| **Multi-AI Chat Interface** | Vanilla JS chat UI with multi-model support and localStorage persistence | — |
+| **WiFi Motion Detector** | Motion detection using RSSI variance analysis | — |
+| **Car Exhaust Sound Simulator** | Web Audio API engine sound simulator with live GPS speed integration | — |
+| **Exam Pattern Analyzer** | Spec for analyzing competitive exam patterns (UPSC, JEE, NEET, GATE) | — |
+
+</details>
+
+<br>
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vismay-dev1&show_icons=true&theme=tokyonight&bg_color=0d1117&text_color=00ffff&title_color=00ffff)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Vismay-dev1&show_icons=true&theme=tokyonight&bg_color=0d0221&title_color=00e5ff&icon_color=00e5ff&text_color=c9d1d9&border_color=1a0033"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vismay-dev1&layout=compact&theme=tokyonight&bg_color=0d0221&title_color=00e5ff&text_color=c9d1d9&border_color=1a0033"/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vismay-dev1&theme=tokyonight&background=0d1117&stroke=00ffff&ring=00ffff&fire=ff6b6b&currStreakLabel=00ffff)
+<br>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vismay-dev1&layout=compact&theme=tokyonight&bg_color=0d1117&text_color=00ffff&title_color=00ffff)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vismay-dev1&theme=tokyonight&background=0d0221&stroke=00e5ff&ring=00e5ff&fire=ff6b6b&currStreakLabel=00e5ff&border=1a0033"/>
 
 </div>
 
----
+<br>
 
-## 🌐 Connect With Me
+## 🧭 Roadmap
+
+| Goal | Status |
+|---|---|
+| Ship JARVIS Phase 1 (MVP) | 🔄 In Progress |
+| Launch RainVision AI beta | 🔄 In Progress |
+| Build out Aurora Shell core rendering | 🛠️ Early Development |
+| Launch a personal startup | 💭 2026–2027 |
+| Reach financial independence | 💭 Long-term |
+
+<br>
+
+## Connect With Me
 
 <div align="center">
 
-<a href="https://linkedin.com/in/VismayVinod" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<a href="https://www.linkedin.com/in/vismay-vinod-01a279320" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-<a href="https://instagram.com/vis_may_v/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-
 <a href="https://github.com/Vismay-dev1" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
+<a href="https://instagram.com/vis_may_v/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 <a href="https://vismay-dev1.github.io/my-portfolio/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-00e5ff?style=for-the-badge&logo=googlechrome&logoColor=0d0221"/>
 </a>
 
 </div>
 
----
-
-## 🧭 Vision & Goals
+<br>
 
 <div align="center">
 
-| Goal | Status | Timeline |
-|------|--------|----------|
-| 🚀 Launch Personal Startup | 🔄 In Progress | 2026-2027 |
-| 🤖 Master AI & Machine Learning | 📚 Learning | Ongoing |
-| 💰 Achieve Financial Independence | 💭 Planning | Long-term |
-| 📚 Build Open Source Tools | ✨ Active | Continuous |
+> *"Building extraordinary things requires ordinary consistency + extraordinary vision."*
+
+⭐ **If any of this resonates, a star on the repos goes a long way.**
 
 </div>
 
----
-
-## 💡 Philosophy
-
-<div align="center">
-
-> **"Building extraordinary things requires ordinary consistency + extraordinary vision."**
-
-*Passionate about turning ideas into reality through code, creativity, and perseverance.*
-
-</div>
-
----
-
-<div align="center">
-
-⭐ **If you find my work interesting, feel free to star my repositories!** ⭐
-
-<img src="https://media.tenor.com/OKx2kzBZzXkAAAAd/coding-programming.gif" width="200" alt="Happy Coding"/>
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:003366,50:1a0033,100:0d0221&height=120&section=footer"/>
