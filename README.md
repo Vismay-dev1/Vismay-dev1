@@ -220,7 +220,3 @@ End-to-end ML project on a synthetic 500-row salary dataset — full EDA, prepro
 ⭐ **If any of this resonates, a star on the repos goes a long way.**
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:003366,50:1a0033,100:0d0221&height=120&section=footer&animation=fadeIn"/><div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:1a0033,100:003366&height=230&section=header&text=Vismay%20Vinod&fontSize=52&fontColor=00e5ff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Builder%20%7C%20Systems%20Tinkerer&descAlignY=58&descSize=18&descColor=8892b0"/>
