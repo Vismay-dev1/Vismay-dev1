@@ -1,574 +1,222 @@
 <div align="center">
 
-```text
-╔══════════════════════════════════════════════════════════════════════╗
-║                                                                      ║
-║   ██████╗ ██╗   ██╗███████╗███╗   ███╗ █████╗ ██╗   ██╗            ║
-║   ██╔══██╗██║   ██║██╔════╝████╗ ████║██╔══██╗╚██╗ ██╔╝            ║
-║   ██████╔╝██║   ██║███████╗██╔████╔██║███████║ ╚████╔╝             ║
-║   ██╔═══╝ ██║   ██║╚════██║██║╚██╔╝██║██╔══██║  ╚██╔╝              ║
-║   ██║     ╚██████╔╝███████║██║ ╚═╝ ██║██║  ██║   ██║               ║
-║   ╚═╝      ╚═════╝ ╚══════╝╚═╝     ╚═╝╚═╝  ╚═╝   ╚═╝               ║
-║                                                                      ║
-║                    [ SYSTEM ONLINE ]                                ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=21&duration=2800&pause=700&color=39FF14&center=true&vCenter=true&width=850&lines=%3E_%20Initializing%20Vismay%20Vinod...;%3E_%20Full-Stack%20Developer;%3E_%20AI%2FML%20Builder;%3E_%20Systems%20Tinkerer;%3E_%20Building%20things%20that%20shouldn't%20exist%20yet..."/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:1a0033,100:003366&height=230&section=header&text=Vismay%20Vinod&fontSize=52&fontColor=00e5ff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Builder%20%7C%20Systems%20Tinkerer&descAlignY=58&descSize=18&descColor=8892b0"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-39FF14?style=for-the-badge&labelColor=050505&color=39FF14"/>
-<img src="https://img.shields.io/badge/BCA-9.6%20CGPA-39FF14?style=for-the-badge&labelColor=050505&color=39FF14"/>
-<img src="https://img.shields.io/badge/LOCATION-INDIA-39FF14?style=for-the-badge&labelColor=050505&color=39FF14"/>
-<img src="https://img.shields.io/badge/MODE-BUILD-39FF14?style=for-the-badge&labelColor=050505&color=39FF14"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=760&lines=Building+AI+assistants%2C+ML+pipelines%2C+and+dev+tools;Designing+a+Windows+desktop+shell+from+scratch;9.6+CGPA+BCA+Student+%7C+India;Shipping+real+projects%2C+not+just+tutorials"/>
 
 <br><br>
 
-```text
-┌──────────────────────────────────────────────────────────────────────┐
-│ >_ USER              : Vismay Vinod                                 │
-│ >_ CLASS             : Software Engineer                             │
-│ >_ EDUCATION         : BCA                                           │
-│ >_ CGPA              : 9.6                                           │
-│ >_ SPECIALIZATION    : AI / ML / Full-Stack / Systems               │
-│ >_ CURRENT_MODE      : BUILDING                                     │
-│ >_ OBJECTIVE         : CREATE → SHIP → SCALE                         │
-│ >_ STATUS             : ████████████████████████ 100% ONLINE         │
-└──────────────────────────────────────────────────────────────────────┘
-```
+<img src="https://img.shields.io/badge/BCA%20Student-9.6%20CGPA-0d0221?style=for-the-badge&labelColor=1a0033&color=00e5ff"/>
+<img src="https://img.shields.io/badge/Based%20in-India-0d0221?style=for-the-badge&labelColor=1a0033&color=00e5ff"/>
+<img src="https://img.shields.io/badge/Focus-AI%2FML%20%7C%20Full--Stack%20%7C%20Systems-0d0221?style=for-the-badge&labelColor=1a0033&color=00e5ff"/>
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0d0221&height=40&section=header"/>
 
-# `>_ BOOT SEQUENCE`
-
-```text
-[ OK ] Loading developer profile...
-[ OK ] Loading engineering modules...
-[ OK ] Initializing AI systems...
-[ OK ] Mounting full-stack environment...
-[ OK ] Connecting neural interfaces...
-[ OK ] Loading experimental projects...
-[ OK ] Starting build process...
-
-██████████████████████████████████████████████████ 100%
-
-SYSTEM MESSAGE:
-"Extraordinary results come from ordinary consistency."
-```
-
----
-
-# `>_ ABOUT.exe`
+## About Me
 
 ```yaml
-identity:
-  name: Vismay Vinod
-  role: BCA Student & Self-Directed Software Engineer
-  cgpa: 9.6
-  location: India
-
-current_operations:
-  - JARVIS
-  - RainVision AI
-  - Aurora Shell
-
-primary_domains:
-  - Full-Stack Development
-  - Artificial Intelligence
-  - Machine Learning
-  - Computer Vision
-  - Systems Engineering
-  - Embedded Systems
-
-long_term_objective:
-  - Build a startup
-  - Ship real products
-  - Create useful technology
-  - Achieve financial independence
-
-operating_principle:
-  "Build first. Learn by doing. Ship continuously."
+role:        BCA Student & Self-Directed Software Engineer
+academics:   9.6 CGPA
+building:    JARVIS (AI assistant) · RainVision AI (rain nowcasting) · Aurora Shell (Windows desktop env)
+interests:   Full-stack web dev · AI/ML · Embedded systems · System design
+goal:        Launch a startup, ship real products, reach financial independence
+philosophy:  Extraordinary results come from ordinary consistency.
 ```
 
-> `>_ I don't just follow tutorials. I design systems, write specifications, break problems into modules, and build.`
+I don't just follow tutorials — I design full specs before I build, whether it's a 13-phase roadmap for a desktop shell or a complete ML pipeline for a prediction model. Currently deep in AI/ML while shipping full-stack projects on the side.
 
-```text
-                    ┌─────────────────────────┐
-                    │      DEVELOPER CORE      │
-                    ├─────────────────────────┤
-                    │ SYSTEM DESIGN      ████  │
-                    │ AI / ML            ████  │
-                    │ FULL STACK         ████  │
-                    │ COMPUTER VISION    ████  │
-                    │ EXPERIMENTATION    ████  │
-                    │ LEARNING           ████  │
-                    └─────────────────────────┘
-```
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0d0221&height=40&section=header"/>
 
----
-
-# `>_ TECH_STACK`
-
-## `LANGUAGES`
-
-```text
-┌──────────────────────────────────────────────────────────┐
-│ C      C++      Java      Python      JavaScript          │
-└──────────────────────────────────────────────────────────┘
-```
+## Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js&theme=dark"/>
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js&theme=dark" />
+
+**Web Development**
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs&theme=dark" />
+
+**AI / ML**
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+
+**Databases, Tools & Systems**
+
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,rust,arduino&theme=dark" />
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0d0221&height=40&section=header"/>
 
-## `WEB_PROTOCOLS`
+## 🚀 Flagship Projects
 
-```text
->_ FRONTEND
-HTML ── CSS ── JavaScript ── React
+<table>
+<tr>
+<td width="50%" valign="top">
 
->_ BACKEND
-Node.js ── FastAPI
+### 🤖 JARVIS — Personal AI Assistant
+Windows-native AI assistant inspired by Iron Man's JARVIS — built for voice interaction, app/file/system control, computer vision, and daily-assistant automation, designed with full breadth across every module first.
 
->_ ARCHITECTURE
-REST APIs ── Client/Server ── Full-Stack Systems
-```
+`Status: Active — Phase 1 MVP`
 
-<div align="center">
+</td>
+<td width="50%" valign="top">
 
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs&theme=dark"/>
+### 🌧️ RainVision AI — Rain Nowcasting
+Predicts rainfall 5–60 minutes ahead from live radar/satellite data using optical flow + ConvLSTM models. Built to become Kerala's most trusted hyperlocal rain prediction platform.
 
-</div>
+`Stack: React · FastAPI · TensorFlow · OpenCV · PostgreSQL`
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-## `AI_CORE`
+### 🖥️ Aurora Shell — Windows Desktop Environment
+A macOS-inspired desktop shell built from scratch for Windows — Rust/C++, Skia rendering, DirectX 12, and WebView2, following a strict 13-phase roadmap and a zero-Apple-assets constraint.
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  TensorFlow      ████████████████████                        │
-│  PyTorch        ███████████████████                         │
-│  OpenCV         █████████████████████                       │
-│  Scikit-Learn   ██████████████████                          │
-│  FastAPI        █████████████████                           │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
+`Status: Design & early development`
 
-<div align="center">
+</td>
+<td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/TensorFlow-39FF14?style=for-the-badge&logo=tensorflow&logoColor=black&labelColor=050505"/>
-<img src="https://img.shields.io/badge/PyTorch-39FF14?style=for-the-badge&logo=pytorch&logoColor=black&labelColor=050505"/>
-<img src="https://img.shields.io/badge/OpenCV-39FF14?style=for-the-badge&logo=opencv&logoColor=black&labelColor=050505"/>
-<img src="https://img.shields.io/badge/scikit--learn-39FF14?style=for-the-badge&logo=scikitlearn&logoColor=black&labelColor=050505"/>
-<img src="https://img.shields.io/badge/FastAPI-39FF14?style=for-the-badge&logo=fastapi&logoColor=black&labelColor=050505"/>
+### 🎓 Smart Attendance Tracker
+Real-time face-recognition attendance system (face-api.js) with dual-mode session control and a glassmorphism dashboard — teacher/student roles, analytics, and PDF reports, all in one self-contained app.
 
-</div>
+`Stack: JS · face-api.js · Tailwind · Chart.js · jsPDF`
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-## `DATABASE / SYSTEMS`
+### 🛒 MAVEN — E-Commerce Platform
+Full storefront with multiple ground-up redesigns (Myntra-inspired, luxury black-and-orange) and localized INR pricing.
 
-<div align="center">
+🔗 **[Live Demo](https://vismay-dev1.github.io/MAVEN-ecommerce)**
 
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,rust,arduino&theme=dark"/>
+</td>
+<td width="50%" valign="top">
 
-</div>
+### 📊 AI/ML Salary Prediction
+End-to-end ML project on a synthetic 500-row salary dataset — full EDA, preprocessing, and four models (KNN, Linear & Logistic Regression) in one Colab notebook.
 
-```text
-DATABASES       → MySQL / SQLite
-VERSION CONTROL → Git / GitHub
-SYSTEMS         → Rust / C / C++
-EMBEDDED        → Arduino
-```
+`Stack: Python · scikit-learn · Pandas · Google Colab`
 
----
-
-# `>_ ACTIVE_PROJECTS`
-
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                    PROJECT DATABASE                          ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  [01] JARVIS             ███████████████░░░░  ACTIVE         ║
-║  [02] RainVision AI      █████████████░░░░░  ACTIVE         ║
-║  [03] Aurora Shell       ███████░░░░░░░░░░░  DEVELOPMENT    ║
-║  [04] Attendance AI      █████████████████░  BUILT          ║
-║  [05] MAVEN              ██████████████████  LIVE           ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
----
-
-## `01 // JARVIS`
-
-```text
-       ╔════════════════════════════════════╗
-       ║          J A R V I S               ║
-       ║   PERSONAL AI ASSISTANT SYSTEM     ║
-       ╚════════════════════════════════════╝
-
-> STATUS     : ACTIVE
-> PHASE      : PHASE 1 MVP
-> PLATFORM   : WINDOWS
-> INTERFACE  : VOICE + COMPUTER VISION
-> PURPOSE    : PERSONAL AUTOMATION
-```
-
-```text
-                    ┌──────────────┐
-                    │    USER      │
-                    └──────┬───────┘
-                           │
-                    ┌──────▼───────┐
-                    │    JARVIS    │
-                    └──────┬───────┘
-             ┌──────────────┼──────────────┐
-             ▼              ▼              ▼
-        VOICE AI       COMPUTER VISION   SYSTEM
-             │              │              │
-             └──────────────┼──────────────┘
-                            ▼
-                     AUTOMATION CORE
-```
-
-> Windows-native AI assistant inspired by Iron Man's JARVIS, designed for voice interaction, application control, file/system operations, computer vision and daily automation.
-
-`[ STATUS: ACTIVE — PHASE 1 MVP ]`
-
----
-
-## `02 // RAINVISION AI`
-
-```text
-╔════════════════════════════════════════════════════════════╗
-║                       RAINVISION AI                       ║
-║                  HYPERLOCAL RAIN AI                       ║
-╚════════════════════════════════════════════════════════════╝
-
-> INPUT
-    RADAR
-    SATELLITE
-    LIVE WEATHER DATA
-
-> PROCESS
-    OPTICAL FLOW
-          ↓
-    COMPUTER VISION
-          ↓
-    CONVLSTM
-          ↓
-    PREDICTION ENGINE
-
-> OUTPUT
-    5 → 60 MINUTE RAIN NOWCAST
-```
-
-**Stack**
-
-```text
-React
-FastAPI
-TensorFlow
-OpenCV
-PostgreSQL
-```
-
-> Mission: Build a hyperlocal rainfall prediction platform focused on Kerala.
-
----
-
-## `03 // AURORA SHELL`
-
-```text
-╔════════════════════════════════════════════════════════════╗
-║                     A U R O R A                            ║
-║                  WINDOWS SHELL                             ║
-╚════════════════════════════════════════════════════════════╝
-
-> TARGET     : WINDOWS
-> RENDERER   : SKIA
-> GRAPHICS   : DIRECTX 12
-> CORE       : RUST / C++
-> WEB        : WEBVIEW2
-
-ROADMAP:
-
-[01] ██████████ DESIGN
-[02] ████████░░ CORE
-[03] ██████░░░░ RENDERING
-[04] ░░░░░░░░░░ WINDOW SYSTEM
-[05] ░░░░░░░░░░ DESKTOP
-[06] ░░░░░░░░░░ FILE SYSTEM
-[07] ░░░░░░░░░░ APP SYSTEM
-[08] ░░░░░░░░░░ NETWORK
-[09] ░░░░░░░░░░ TERMINAL
-[10] ░░░░░░░░░░ AI
-[11] ░░░░░░░░░░ SECURITY
-[12] ░░░░░░░░░░ OPTIMIZATION
-[13] ░░░░░░░░░░ RELEASE
-```
-
-`STATUS: DESIGN & EARLY DEVELOPMENT`
-
----
-
-## `04 // SMART ATTENDANCE`
-
-```text
-> FACE DETECTION
-        ↓
-> FACE RECOGNITION
-        ↓
-> SESSION CONTROL
-        ↓
-> ATTENDANCE DATABASE
-        ↓
-> ANALYTICS
-        ↓
-> PDF REPORT
-```
-
-**Stack**
-
-`JavaScript` · `face-api.js` · `Tailwind` · `Chart.js` · `jsPDF`
-
----
-
-## `05 // MAVEN`
-
-```text
-╔══════════════════════════════════════╗
-║              M A V E N               ║
-║       E-COMMERCE PLATFORM             ║
-╚══════════════════════════════════════╝
-
-> MULTIPLE UI REDESIGNS
-> INR LOCALIZATION
-> FULL STOREFRONT
-> RESPONSIVE INTERFACE
-```
-
-🔗 **[ ACCESS LIVE SYSTEM ](https://vismay-dev1.github.io/MAVEN-ecommerce)**
-
----
-
-# `>_ SECONDARY_PROJECTS`
+</td>
+</tr>
+</table>
 
 <details>
-<summary><b>⌁ OPEN PROJECT DATABASE</b></summary>
-
+<summary><b>📂 More Projects — click to expand</b></summary>
 <br>
 
-| ID | PROJECT                     | SYSTEM                     |
-| -: | --------------------------- | -------------------------- |
-| 06 | Web-based SQL Terminal      | Browser SQLite             |
-| 07 | Driver Sleep Prevention     | Arduino + IR               |
-| 08 | AI PDF Reader               | Eye Tracking + AI          |
-| 09 | CodeNexus                   | Browser Code Editor        |
-| 10 | 3D Racing Game              | Three.js + Ammo.js         |
-| 11 | NexaCore                    | Three.js + GSAP            |
-| 12 | Multi-AI Chat Interface     | Vanilla JS                 |
-| 13 | WiFi Motion Detector        | RSSI Analysis              |
-| 14 | Car Exhaust Sound Simulator | Web Audio API + GPS        |
-| 15 | Exam Pattern Analyzer       | Competitive Exam Analytics |
+| Project | Description | Link |
+|---|---|---|
+| **Web-based SQL Terminal** | Run SQL queries in-browser, powered by SQLite | [Live](https://vismay-dev1.github.io/sql-web/) · [Repo](https://github.com/Vismay-dev1/sql-web) |
+| **Driver Sleep Prevention System** | Arduino + IR sensors for real-time drowsiness detection with buzzer alerts | [Repo](https://github.com/Vismay-dev1/driver-sleep-prevention-system) |
+| **AI PDF Reader** | Eye-tracking based hands-free reading assistant with AI summarization | — |
+| **CodeNexus** | Browser-based code editor simulating multi-language execution | — |
+| **3D Racing Game** | Forza Motorsport-inspired browser racer (Three.js + Ammo.js), with a mobile-optimized build | — |
+| **NexaCore** | 3D marketing site built with Three.js + GSAP | — |
+| **Multi-AI Chat Interface** | Vanilla JS chat UI with multi-model support and localStorage persistence | — |
+| **WiFi Motion Detector** | Motion detection using RSSI variance analysis | — |
+| **Car Exhaust Sound Simulator** | Web Audio API engine sound simulator with live GPS speed integration | — |
+| **Exam Pattern Analyzer** | Spec for analyzing competitive exam patterns (UPSC, JEE, NEET, GATE) | — |
 
 </details>
 
----
-
-# `>_ SYSTEM_SCAN`
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                     SYSTEM DIAGNOSTICS                       │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  AI/ML ENGINE            [████████████████████]  ONLINE      │
-│  FULL STACK              [███████████████████░]  ONLINE      │
-│  SYSTEM DESIGN           [█████████████████░░░]  ONLINE      │
-│  COMPUTER VISION         [██████████████████░░]  ONLINE      │
-│  EXPERIMENTATION         [████████████████████]  ONLINE      │
-│  LEARNING ENGINE         [████████████████████]  ONLINE      │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=2200&pause=500&color=39FF14&center=true&vCenter=true&width=700&lines=%3E_%20Scanning%20repositories...;%3E_%20Analyzing%20commits...;%3E_%20Compiling%20ideas...;%3E_%20Deploying%20experiments...;%3E_%20System%20ready."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=800&color=8892b0&center=true&vCenter=true&width=650&lines=Turning+commits+into+a+story...;Let%27s+see+what+the+numbers+say"/>
 
 </div>
 
----
-
-# `>_ GITHUB_ANALYTICS`
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Vismay-dev1&show_icons=true&theme=chartreuse-dark&bg_color=050505&title_color=39FF14&icon_color=39FF14&text_color=9aff9a&border_color=39FF14"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Vismay-dev1&show_icons=true&theme=tokyonight&bg_color=0d0221&title_color=00e5ff&icon_color=00e5ff&text_color=c9d1d9&border_color=1a0033"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vismay-dev1&layout=compact&theme=tokyonight&bg_color=0d0221&title_color=00e5ff&text_color=c9d1d9&border_color=1a0033"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vismay-dev1&layout=compact&theme=chartreuse-dark&bg_color=050505&title_color=39FF14&text_color=9aff9a&border_color=39FF14"/>
+<br>
 
-<br><br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vismay-dev1&theme=tokyonight&background=0d0221&stroke=00e5ff&ring=00e5ff&fire=ff6b6b&currStreakLabel=00e5ff&border=1a0033"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vismay-dev1&theme=dark&background=050505&stroke=39FF14&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=39FF14&border=39FF14"/>
+<br>
 
-<br><br>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vismay-dev1&theme=react-dark&hide_border=true&area=true&bg_color=0d0221&color=00e5ff&line=00e5ff&point=ffffff" width="95%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vismay-dev1&theme=github-compact&hide_border=true&area=true&bg_color=050505&color=39FF14&line=39FF14&point=ffffff" width="95%"/>
+<br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Vismay-dev1&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"/>
 
 </div>
 
----
-
-# `>_ CONTRIBUTION_MATRIX`
+## 🐍 Contribution Snake
 
 <div align="center">
-
-```text
-                 CONTRIBUTION GRID
-             
-        ░ ░ ▒ ▒ ▓ ▓ █ █ █ █ ▓ ▓ ▒ ░
-        ░ ▒ ▓ █ █ ▓ ▒ ░ ░ ▒ ▓ █ █ ▓
-        ▒ ▓ █ █ ▓ ▒ ░ ░ ░ ▒ ▓ █ █ █
-        ░ ▒ ▓ ▓ ▒ ░ ░ ▒ ▓ █ █ ▓ ▒ ░
-        ░ ░ ▒ ▓ █ █ ▓ ▒ ░ ▒ ▓ █ ░ ░
-
-              KEEP SHIPPING.
-```
 
 <img src="https://raw.githubusercontent.com/Vismay-dev1/Vismay-dev1/output/github-contribution-grid-snake.svg" width="100%"/>
 
+<sub>Live once the snake workflow is added to the profile repo — say the word and it can be set up.</sub>
+
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0d0221&height=40&section=header"/>
 
-# `>_ ROADMAP.sys`
+## 🧭 Roadmap
 
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                     MISSION OBJECTIVES                       ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  [✓] Build strong programming fundamentals                  ║
-║  [✓] Build full-stack applications                           ║
-║  [✓] Explore AI / ML                                        ║
-║  [→] Ship JARVIS Phase 1                                    ║
-║  [→] Launch RainVision AI beta                              ║
-║  [→] Build Aurora Shell core                                ║
-║  [ ] Launch personal startup                                ║
-║  [ ] Achieve financial independence                          ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+| Goal | Status |
+|---|---|
+| Ship JARVIS Phase 1 (MVP) | 🔄 In Progress |
+| Launch RainVision AI beta | 🔄 In Progress |
+| Build out Aurora Shell core rendering | 🛠️ Early Development |
+| Launch a personal startup | 💭 2026–2027 |
+| Reach financial independence | 💭 Long-term |
 
-```text
-CURRENT MISSION
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0d0221&height=40&section=header"/>
 
-        LEARN
-          ↓
-        BUILD
-          ↓
-        TEST
-          ↓
-        BREAK
-          ↓
-        FIX
-          ↓
-        SHIP
-          ↓
-        SCALE
-```
-
----
-
-# `>_ TERMINAL`
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│ Vismay@github:~$ ./future                                    │
-│                                                              │
-│ Loading ambition...                                          │
-│ Loading ideas...                                              │
-│ Loading caffeine...                                           │
-│                                                              │
-│ ██████████████████████████████████████████████████ 100%     │
-│                                                              │
-│ RESULT:                                                       │
-│                                                              │
-│ > Startup      : TARGET LOCKED                               │
-│ > AI Systems   : ACTIVE                                      │
-│ > Products     : BUILDING                                    │
-│ > Learning     : CONTINUOUS                                  │
-│ > Failure      : ACCEPTED                                    │
-│                                                              │
-│ Vismay@github:~$                                             │
-│ █                                                                │
-└──────────────────────────────────────────────────────────────┘
-```
-
----
-
-# `>_ CONNECT`
+## Connect With Me
 
 <div align="center">
 
-```text
-╔══════════════════════════════════════════════════════╗
-║                  ESTABLISH CONNECTION                ║
-╚══════════════════════════════════════════════════════╝
-```
-
-<a href="https://github.com/Vismay-dev1">
-<img src="https://img.shields.io/badge/GITHUB-39FF14?style=for-the-badge&logo=github&logoColor=black&labelColor=050505"/>
-</a>
-
-<a href="https://www.linkedin.com/in/vismay-vinod-01a279320">
-<img src="https://img.shields.io/badge/LINKEDIN-39FF14?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=050505"/>
-</a>
-
-<a href="https://instagram.com/vis_may_v/">
-<img src="https://img.shields.io/badge/INSTAGRAM-39FF14?style=for-the-badge&logo=instagram&logoColor=black&labelColor=050505"/>
-</a>
-
-<a href="https://vismay-dev1.github.io/my-portfolio/">
-<img src="https://img.shields.io/badge/PORTFOLIO-39FF14?style=for-the-badge&logo=googlechrome&logoColor=black&labelColor=050505"/>
-</a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=900&color=8892b0&center=true&vCenter=true&width=500&lines=Always+open+to+interesting+conversations"/>
 
 <br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=2600&pause=900&color=39FF14&center=true&vCenter=true&width=650&lines=%3E_%20Always%20open%20to%20interesting%20conversations;%3E_%20Ideas%20welcome;%3E_%20Let's%20build%20something%20insane."/>
+<a href="https://www.linkedin.com/in/vismay-vinod-01a279320" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/Vismay-dev1" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://instagram.com/vis_may_v/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="https://vismay-dev1.github.io/my-portfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-00e5ff?style=for-the-badge&logo=googlechrome&logoColor=0d0221"/>
+</a>
 
-<br><br>
+</div>
 
-```text
-╭──────────────────────────────────────────────────────────╮
-│                                                          │
-│   "Building extraordinary things requires ordinary       │
-│    consistency + extraordinary vision."                 │
-│                                                          │
-╰──────────────────────────────────────────────────────────╯
-```
+<br>
 
-⭐ **Star a repository if something here helped or inspired you.**
+<div align="center">
 
-```text
-SYSTEM STATUS: ONLINE
-CONNECTION: ESTABLISHED
-NEXT ACTION: BUILD
-```
+> *"Building extraordinary things requires ordinary consistency + extraordinary vision."*
+
+⭐ **If any of this resonates, a star on the repos goes a long way.**
 
 </div>
